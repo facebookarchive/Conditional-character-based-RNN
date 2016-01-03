@@ -2,7 +2,7 @@
 
 This project proposes an efficient character based recurrent neural network. 
 The RNN has word level input instead of standard character level input.
-The output of thhe RNN is conditioned by the previous words.
+The output of the RNN is conditioned by the previous words.
 
 ## Most important code
 
