@@ -21,7 +21,7 @@ This code has been tested on Linux, but should work on any machine. The is no de
 
 ## Join the Conditional character based RNN community
 
-See the CONTRIBUTING file for how to help out.
+See the [CONTRIBUTING](https://github.com/ritwik12/Conditional-character-based-RNN/blob/master/CONTRIBUTING.md) file for how to help out.
 
 ## License
 Conditional character based RNN is BSD-licensed. We also provide an additional patent grant.
